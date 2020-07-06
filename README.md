@@ -10,7 +10,7 @@ Our work is inspired by [Vampire](https://github.com/matsengrp/vampire). Before 
 
 ## Processed Data
 The data we used to train the models are cohort2 from [Immunosequencing identifies signatures of cytomegalovirus exposure history and HLA-mediated effects on the T-cell repertoire](https://clients.adaptivebiotech.com/pub/5dd7b508-079b-4cf6-872d-4a91e5e3e5db).
-Processed data can be downloaded from 
+Processed data can be downloaded from [Zenodo](https://zenodo.org/record/3931962#.XwNGk5Mzblw).
 
 ## Running
 Before running `.py` scripts, you should execute
