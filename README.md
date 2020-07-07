@@ -36,3 +36,4 @@ conda activate vampire
 - Encode consists of bidirectional GRU layer, decoder consists of undirectional GRU layer.
 
 ## Result analysis
+The scripts that plot distance heatmap of generations' probability distribution and scatter of frequency estimation are `modeller_plot.py` and `plot_heatmap.py`.
