@@ -26,7 +26,7 @@ conda activate vampire
 - Output data is CDR3 amino acid sequence.
 - Encoder and decoder consists dense layers.
 
-### Nuclotide VAE (nt_vae.py)
+### Nucleotide VAE (nt_vae.py)
 - Input data is CDR3 nucleotide sequence.
 - Output data is CDR3 amino acid sequence.
 - Encoder and decoder consists dense layers.
